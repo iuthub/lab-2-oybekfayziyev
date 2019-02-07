@@ -1,3 +1,17 @@
 body{
 	background-color: #A9A9A9;
 }
+h1,h3{
+	color: #1E90FF;
+
+}
+
+
+a{
+	color: red;
+}
+mark.st{
+	font-style: italic;
+	background-color: #A9A9A9;
+
+}
